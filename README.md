@@ -1,4 +1,5 @@
-# KYGnus-Medical
+# MWS
+## Medical Web Scraping
 ## Find Drug in Number of Persian Sites
 
 ![image](./LOGO.png)
